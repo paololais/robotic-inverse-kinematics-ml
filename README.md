@@ -58,3 +58,7 @@ pip install numpy pandas matplotlib scikit-learn kagglehub
 ```
 
 Open and run the Jupyter notebook. The dataset is downloaded automatically using `kagglehub`.
+
+## Contributors
+- [Paolo Laishram](https://github.com/paololais)
+- [Marcello Ori](https://github.com/NotCello)
